@@ -1,6 +1,6 @@
 # Scala Dev
 
-This repository contains the solutions to a set of increasingly difficult problems to familiarise with functional programming (FP) using [Scala](http://www.scala-lang.org/). Problems were taken from a Coursera course given by [Martin Odersky], the designer of the Scala programming language itself.
+This repository contains the solutions to a set of increasingly difficult problems to familiarise with functional programming (FP) using [Scala](http://www.scala-lang.org/). Problems were taken from a Coursera course given by Martin Odersky, the designer of the Scala programming language itself.
 
 Projects:
 
