@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="SBT: com.typesafe:config:1.2.1:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/bundles/com.typesafe/config/config-1.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib_managed/docs/com.typesafe/config/config-1.2.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe/config/docs/config-1.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe/config/srcs/config-1.2.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/com.typesafe/config/config-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
