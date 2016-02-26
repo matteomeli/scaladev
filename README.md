@@ -1,6 +1,6 @@
 # Scala Dev
 
-This repository contains the solutions to a set of increasingly difficult problems to familiarise with functional programming (FP) using [Scala](http://www.scala-lang.org/). Problems were taken from a Coursera course given by [Martin Odersky], the designer of the Scala programming language itself.
+This repository contains the solutions to a set of increasingly difficult problems to familiarise with functional programming (FP) using [Scala](http://www.scala-lang.org/). Problems were taken from a Coursera course given by Martin Odersky, the designer of the Scala programming language itself.
 
 Projects:
 
@@ -11,9 +11,9 @@ Projects:
     * Pascal Triangle
     * Parentheses balance
     * Counting change problem
-2. Applying mathematical definitions through FL constructs
+2. Applying mathematical definitions through FP constructs
     * Functional Sets
-3. Usign OOP with FL
+3. Usign OOP with FP
     * Object Oriented Sets
 4. Compressiong algorithms
     * Huffman encoding/decoding
@@ -24,4 +24,4 @@ Projects:
     * Anagrams
 6. Implement a solver for the [Bloxorz](http://www.miniclip.com/games/bloxorz/en/) game
 
-The repository also contains some experiments on [ScalaZ](http://scalaz.github.io/scalaz), a totally functional extension library for Scala (based on Haskell ideas)
+The repository also contains some experiments on [ScalaZ](http://scalaz.github.io/scalaz), an only-functional extension library for Scala (based on Haskell ideas).
